@@ -24,7 +24,7 @@
     "linux": true,
     "windows": true
   },
-  "system_tray_path": "icons/larkweb.png",
+  "system_tray_path": "icons/icon_new.png",
   "inject": [],
   "proxy_url": ""
 }
