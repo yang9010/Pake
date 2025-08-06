@@ -24,7 +24,7 @@
     "linux": true,
     "windows": true
   },
-  "system_tray_path": "src-tauri/icons/icon_new.png",
+  "system_tray_path": icons/icon.png",
   "inject": [],
   "proxy_url": ""
 }
