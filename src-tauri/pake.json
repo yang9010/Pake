@@ -21,7 +21,7 @@
   },
   "system_tray": {
     "macos": false,
-    "linux": true,
+    "linux": false,
     "windows": true
   },
   "system_tray_path": "icons/larkweb.png",
